@@ -60,10 +60,25 @@ KPIs include delta values to compare filtered data to overall averages.
 
 ## Live Demo
 
-**Dashboard URL:** [Insert Streamlit Cloud URL]
+**Dashboard URL:** https://ai-maths-2-fa-2-by-pravargolecha-xogwahzmp4b9cf8pepp2hr.streamlit.app/
 
-**GitHub Repository:** [https://github.com/YOUR_USERNAME/lastmile-delivery-analytics-dashboard](https://github.com/YOUR_USERNAME/lastmile-delivery-analytics-dashboard)
+## Snippets of the project:
 
+<img width="1845" height="811" alt="Screenshot 2025-11-03 175455" src="https://github.com/user-attachments/assets/740f498a-8dc4-406b-a311-935749fbbd85" />
+
+<img width="1238" height="738" alt="Screenshot 2025-11-03 175509" src="https://github.com/user-attachments/assets/099eb163-bdd1-43ec-a140-e405de5c6c7a" />
+
+<img width="1820" height="798" alt="Screenshot 2025-11-03 175528" src="https://github.com/user-attachments/assets/643fc33a-faf3-4c6e-8519-bcda36b8edf6" />
+
+<img width="1868" height="783" alt="Screenshot 2025-11-03 175547" src="https://github.com/user-attachments/assets/f7edbe92-8e3a-4529-8ecf-34d5f61405eb" />
+
+<img width="1783" height="764" alt="Screenshot 2025-11-03 175602" src="https://github.com/user-attachments/assets/4b32ceea-ecbe-45d7-933f-3899eaa910f2" />
+
+<img width="1794" height="769" alt="Screenshot 2025-11-03 175618" src="https://github.com/user-attachments/assets/42effc33-14b6-4a51-92c4-396a2610317a" />
+
+<img width="1849" height="767" alt="Screenshot 2025-11-03 175635" src="https://github.com/user-attachments/assets/912a5cc7-7be8-4c9c-87bf-124d9ba63de3" />
+
+<img width="1817" height="771" alt="Screenshot 2025-11-03 175647" src="https://github.com/user-attachments/assets/9f9c0b54-c9d9-4859-95bf-72357b6d20f1" />
 
 ## Project Structure
 
